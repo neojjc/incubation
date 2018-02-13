@@ -6,7 +6,7 @@ public class Remotetest3
         String a = "TEST";
         String b = "TEST";
         String c = "TEST";
-        
+        String d = "TEST";
 
     }
 }
